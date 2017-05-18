@@ -2,3 +2,5 @@
 build
 target
 /untitled.iml
+/bin/
+.perf
